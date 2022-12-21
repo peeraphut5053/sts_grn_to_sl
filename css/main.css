@@ -1,0 +1,41 @@
+.row-head {
+  color: #333333;
+  font-weight: bold;
+  border-bottom: solid 2px orange;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+}
+
+.textbox {
+  border-radius: 5px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border: solid 1px #ccc;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+/*    .unresponsive thead tr th {
+      min-width: 100%;
+    }*/
+
+.table td {
+  padding: 2px 2px 2px 2px;
+}
+
+.ShowContent {
+  width: 1000px;
+  height: 400px;
+  overflow: auto;
+}
+
+.jumbotron {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+.col-label {
+  padding-top: 5px;
+}
